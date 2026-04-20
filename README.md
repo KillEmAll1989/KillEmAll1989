@@ -7,6 +7,6 @@
 
 17 y/o 　 　C+H　 　 Whisper to Int, I'm always offtab or busy, be patient.
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qzrntuiwzqmtwuxzt2z2cjaihi&cover_image=true&theme=spotify-embed&show_offline=true&background_color=121212&interchange=false&profanity=false&mode=dark&bar_color=8013ec&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31qzrntuiwzqmtwuxzt2z2cjaihi&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=false&profanity=false&bar_color=8013ec&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
 
 </div>
