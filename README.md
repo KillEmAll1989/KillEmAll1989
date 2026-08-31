@@ -7,8 +7,8 @@
 <br clear="both">
 
 <img width="395" height="265.1" alt="blur_edges (1)" src="https://github.com/user-attachments/assets/3547b080-6bd5-4a72-b8ea-05591777c4a7" />
-<img align="left" src="https://file.garden/amjGA3AAXW4qEKvg/ronnie" width="240" height="200.1">
-<img align="right" src="https://file.garden/amjGA3AAXW4qEKvg/heathers" width="200" height="220.1">
+<img align="left" src="https://file.garden/amjGA3AAXW4qEKvg/ronnie" width="140" height="100.1">
+<img align="right" src="https://file.garden/amjGA3AAXW4qEKvg/heathers" width="100" height="120.1">
 
 
 <br clear="both">
