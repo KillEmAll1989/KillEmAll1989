@@ -26,7 +26,7 @@
 
  <br clear="both">
   
- <img width="540" height="310" alt="2f1da2ac5921e9a0f69cc421f8ddbeee" src="https://github.com/user-attachments/assets/dee416c2-8909-4a82-8dec-046af2def60d" />
+ <img width="440" height="230" alt="2f1da2ac5921e9a0f69cc421f8ddbeee" src="https://github.com/user-attachments/assets/dee416c2-8909-4a82-8dec-046af2def60d" />
     <p align="center">$\color{#544D4D}{\text{ }}$
     
 <br clear="both">
