@@ -2,7 +2,7 @@
  
  &ensp;&ensp;&ensp; &ensp; $\color{#9AC3F7FF}{Beautiful.🏑📘}$&ensp;&ensp; ![](https://komarev.com/ghpvc/?username=KillEmAll1989&color=1F85F7&label=Entries&style=flat-square) &ensp;&ensp; $\color{#9AC3F7FF}{࣪📕+📗+📒}$
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=29&pause=1000&color=1F85F7&width=435&lines=September+1st%2C+1989+.+.+.+Dear+diary+.+.+." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Great+Vibes&size=29&pause=1000&color=1F85F7&width=435&lines=.+.+.+September+1st%2C+1989+.+.+.+Dear+diary+.+.+." alt="Typing SVG" /></a>
 
 <br clear="both">
 
